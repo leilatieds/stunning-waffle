@@ -1,0 +1,21 @@
+
+
+@charset "UTF-8"
+h1 {font-size:18px; 
+	font-family: "Courier New", monospace;
+}
+h3 {font-size:22px; font-family:"Courier New", monospace;font-weight:200;}
+
+h4 {font-size:18px; font-family:"Courier New", monospace; font-weight:200;}
+p {font-family:"Courier New", monospace;}
+
+a {padding:7px;font-family:"Courier New", monospace; font-weight:600;}
+/*default*/
+a:link {text-decoration:none;color:#000000;}
+/*visited*/
+a:visited {text-decoration:none;color:#000000;}
+/*hover*/
+a:hover {color:#f0ecec;background-color:#867878;}
+/*pressed*/
+a:active {color:#dcdcdc; background-color:#2f4f4f;}
+}
